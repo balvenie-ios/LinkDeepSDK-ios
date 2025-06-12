@@ -1,4 +1,0 @@
-framework module LinkDeepSDK {
-  header "LinkDeepSDK-Swift.h"
-  requires objc
-}
