@@ -23,12 +23,8 @@ let package = Package(
 //        ),
         .binaryTarget(
             name: "LinkDeepSDK",
-            url: "https://github.com/balvenie-ios/LinkDeepSDK-ios/releases/download/1.0.1/LinkDeepSDK.xcframework.zip",
-            checksum: "123"
-        ),
-        .testTarget(
-            name: "LinkDeepSDKTests",
-            dependencies: ["LinkDeepSDK"]
-        ),
+            url: "https://github.com/balvenie-ios/LinkDeepSDK-ios/releases/download/1.0.2/LinkDeepSDK.xcframework.zip",
+            checksum: "80491ac31ca99d08eb90ac8a7369e3aa0301b85c74d139ee5315671597e8e458"
+        )
     ]
 )
