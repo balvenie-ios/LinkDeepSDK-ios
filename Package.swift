@@ -18,8 +18,8 @@ let package = Package(
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         .binaryTarget(
             name: "LinkDeepSDK",
-            url: "https://github.com/balvenie-ios/LinkDeepSDK-ios/releases/download/3.0.0/LinkDeepSDK.xcframework.zip",
-            checksum: "77f4dfe92467cf88df0fca0c959e0983253f2097a2cd017af6d62f815303046e"
+            url: "https://github.com/balvenie-ios/LinkDeepSDK-ios/releases/download/3.0.1/LinkDeepSDK.xcframework.zip",
+            checksum: "1602eb200fcbf7ff937bed81013ed562b69c33982a8be71a3642cb728c32a1ad"
         )
     ]
 )
